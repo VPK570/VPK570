@@ -28,50 +28,6 @@ I build intelligent backend systems — from disaster triage APIs to AI-powered 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔬 [ResearchRadar](https://github.com/VPK570/ResearchRadar)
-> AI-powered academic research discovery tool that maps unexplored connections between papers and generates novel hypotheses.
-- **Stack:** FastAPI · Gemini API · React · D3.js · Docker
-- Visualizes paper relationships as interactive knowledge graphs
-- Containerised with Docker Compose for one-command setup
-
-### 🆘 [DisasterTriageNet](https://github.com/VPK570/DisasterTriageNet)
-> Intelligent disaster response system with AI-based patient severity scoring and geospatial rescue coordination.
-- **Stack:** Python · Flask · JavaScript · REST API
-- Integrates mobile health inputs with real-time geospatial clustering
-- Dynamic rescue team coordination via backend orchestration
-
-### 🔍 [GSoC Issue Finder](https://github.com/VPK570/gsoc-issue-finder)
-> Full-stack tool to discover unassigned, beginner-friendly GitHub issues for GSoC contributions.
-- **Stack:** Flask · SQLite3 · React (Vite) · GitHub REST API v3
-- 14 REST endpoints with scan history, bookmarks, and live progress tracking
-- Built for developers actively pursuing open source contributions
-
-### 🧠 [SerenAI](https://github.com/VPK570/SerenAI)
-> AI-powered mental wellness companion with voice and text interaction.
-- **Stack:** Python · Flask · JavaScript · ffmpeg
-
----
-
-## 🌍 Open Source
-
-I'm contributing to the **[BrainGlobe Initiative](https://brainglobe.info/)** — an open-source neuroscience tooling ecosystem — as part of my GSoC journey:
-
-- 🔧 [`brainglobe-doctor`](https://github.com/VPK570/brainglobe-doctor) — diagnostic tooling for BrainGlobe environments ⭐
-- 📦 [`brainglobe-atlasapi`](https://github.com/VPK570/brainglobe-atlasapi) — Python API for standardised brain atlases
-- 🧬 [`brainrender`](https://github.com/VPK570/brainrender) — 3D visualisation of brain data
-
----
-
-## 📈 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPK570&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VPK570&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vp-krishna/)
